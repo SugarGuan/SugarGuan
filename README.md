@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 简介
 
 - 🌈 服务端研发工程师 
-- 🔭 现就职 : [蚂蚁集团](http://www.antgroup.com) 
+- 🔭 现就职 : [蚂蚁集团](http://www.antgroup.com) 、[华为公司](http://www.huawei.com)
 - 🌱 目前关注: 实时流计算
 - 👯 希望能够认识：志同道合的小伙伴、一起学习的小伙伴、在北京工作生活的小伙伴
 - 📫 微信: sugar-hit
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Profile
 
 - 🌈 Senior Engineer of Software Developing
-- 🔭 Now, work @ [Ant](http://www.antgroup.com/en)
+- 🔭 Now, work @ [Ant](http://www.antgroup.com/en)、[huawei](http://www.huawei.com)
 - 🌱 Interested in: Flow computation 
 - 👯 Looking for：Guys who lives in Beijing  😄😄
 - 📫 wechat: sugar-hit 
